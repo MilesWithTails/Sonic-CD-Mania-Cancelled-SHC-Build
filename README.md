@@ -1,0 +1,2 @@
+# Sonic-CD-Mania-Cancelled-SHC-Build
+THIS WILL NO LONGER RECIEVE UPDATES
