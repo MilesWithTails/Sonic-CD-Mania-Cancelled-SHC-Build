@@ -1,0 +1,2 @@
+Patch "Enable CESA Screen" Required
+write8 00152EDC 0x0
